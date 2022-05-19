@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "The school is open"
 "ALX school"
+echo "ALX school is so cool"
